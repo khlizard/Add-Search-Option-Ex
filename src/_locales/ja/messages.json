@@ -1,0 +1,9 @@
+{
+  "ext_name": {"message": "Add Search Option EX"},
+  "ext_desc": {"message": "Googleの検索オプションに「3ヶ月以内」「6ヶ月以内」「3年以内」「1年以上前」「3年以上前」を追加します。"},
+  "past_3months": {"message": "3 か月以内"},
+  "past_6months": {"message": "6 か月以内"},
+  "past_3years": {"message": "3 年以内"},
+  "over_1year": {"message": "1 年以上前"},
+  "over_3years": {"message": "3 年以上前"}
+}

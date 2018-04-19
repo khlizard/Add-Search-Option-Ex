@@ -1,0 +1,9 @@
+{
+  "ext_name": {"message": "Add Search Option EX"},
+  "ext_desc": {"message": "Add \"Past 3 months\", \"Past 6 months\", \"Past 3 years\", \"Over 1 year ago\", \"Over 3 years ago\" into Google search tools."},
+  "past_3months": {"message": "Past 3 months"},
+  "past_6months": {"message": "Past 6 months"},
+  "past_3years": {"message": "Past 3 years"},
+  "over_1year": {"message": "Over a year ago"},
+  "over_3years": {"message": "Over 3 years ago"}
+}
